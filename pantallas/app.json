@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "QuizMaster",
+    "slug": "quizmaster",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.quizmaster.app",
+      "versionCode": 1
+    },
+    "platforms": ["android"]
+  }
+}
